@@ -3,15 +3,15 @@
     <article>
       <header class="mb-9 space-y-1">
         <p class="font-display text-sm font-medium text-sky-500">
-          Getting started
+          Primii pași
         </p>
         <h1 class="font-display text-3xl tracking-tight text-slate-900 dark:text-white">
-          Getting started
+          Primii pași
         </h1>
       </header>
       <div class="prose prose-slate max-w-none dark:prose-invert dark:text-slate-400 prose-headings:scroll-mt-28 prose-headings:font-display prose-headings:font-normal lg:prose-headings:scroll-mt-19 prose-lead:text-slate-500 dark:prose-lead:text-slate-400 prose-a:font-semibold dark:prose-a:text-sky-400 prose-a:no-underline prose-a:shadow-[inset_0_-2px_0_0_var(--tw-prose-background,#fff),inset_0_calc(-1*(var(--tw-prose-underline-size,4px)+2px))_0_0_var(--tw-prose-underline,theme(colors.sky.300))] hover:prose-a:[--tw-prose-underline-size:6px] dark:[--tw-prose-background:theme(colors.slate.900)] dark:prose-a:shadow-[inset_0_calc(-1*var(--tw-prose-underline-size,2px))_0_0_var(--tw-prose-underline,theme(colors.sky.800))] dark:hover:prose-a:[--tw-prose-underline-size:6px] prose-pre:rounded-xl prose-pre:bg-slate-900 prose-pre:shadow-lg dark:prose-pre:bg-slate-800/60 dark:prose-pre:shadow-none dark:prose-pre:ring-1 dark:prose-pre:ring-slate-300/10 dark:prose-hr:border-slate-800">
         <p class="lead">
-          Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free.
+          Învață cum să configurezi CacheAdvance în proiectul tău în mai puțin de treizeci de minute sau e gratuit.
         </p>
 
         <div class="my-16 xl:max-w-none">
@@ -19,10 +19,10 @@
             <div class="flex flex-row-reverse gap-6">
               <div class="flex-auto">
                 <h3 class="text-sm font-semibold text-slate-900 dark:text-white">
-                  Installation
+                  Instalare
                 </h3>
                 <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">
-                  Step-by-step guides to setting up your system and installing the library.
+                  Ghiduri pas cu pas pentru configurarea sistemului și instalarea bibliotecii.
                 </p>
               </div>
               <div class="flex-none flex items-center justify-center w-12 h-12 rounded-xl bg-slate-900 dark:bg-white/10">
@@ -35,10 +35,10 @@
             <div class="flex flex-row-reverse gap-6">
               <div class="flex-auto">
                 <h3 class="text-sm font-semibold text-slate-900 dark:text-white">
-                  Architecture guide
+                  Ghid de arhitectură
                 </h3>
                 <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">
-                  Learn how the internals work and contribute.
+                  Învață cum funcționează sistemul intern și contribuie.
                 </p>
               </div>
               <div class="flex-none flex items-center justify-center w-12 h-12 rounded-xl bg-slate-900 dark:bg-white/10">
@@ -51,10 +51,10 @@
             <div class="flex flex-row-reverse gap-6">
               <div class="flex-auto">
                 <h3 class="text-sm font-semibold text-slate-900 dark:text-white">
-                  Plugins
+                  Plugin-uri
                 </h3>
                 <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">
-                  Extend the library with third-party plugins or write your own.
+                  Extinde biblioteca cu plugin-uri terțe sau scrie-ți propriile plugin-uri.
                 </p>
               </div>
               <div class="flex-none flex items-center justify-center w-12 h-12 rounded-xl bg-slate-900 dark:bg-white/10">
@@ -67,10 +67,10 @@
             <div class="flex flex-row-reverse gap-6">
               <div class="flex-auto">
                 <h3 class="text-sm font-semibold text-slate-900 dark:text-white">
-                  API reference
+                  Referință API
                 </h3>
                 <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">
-                  Learn to easily customize and modify your app's visual design to fit your brand.
+                  Învață să personalizezi și modifici cu ușurință designul vizual al aplicației pentru a se potrivi brandului tău.
                 </p>
               </div>
               <div class="flex-none flex items-center justify-center w-12 h-12 rounded-xl bg-slate-900 dark:bg-white/10">
@@ -83,12 +83,12 @@
           </div>
         </div>
 
-        <h2 id="quick-start">Quick start</h2>
+        <h2 id="quick-start">Start rapid</h2>
         <p>
           Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
         </p>
 
-        <h3>Installing dependencies</h3>
+        <h3>Instalarea dependențelor</h3>
         <p>
           Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
         </p>
@@ -101,14 +101,14 @@
 
         <div class="my-6 rounded-2xl bg-amber-50 p-6 dark:bg-slate-800/60 dark:ring-1 dark:ring-slate-300/10">
           <p class="mt-4 font-semibold text-amber-900 dark:text-amber-500">
-            Oh no! Something bad happened!
+            Oh nu! S-a întâmplat ceva rău!
           </p>
           <div class="mt-2.5 text-sm text-amber-800 dark:text-amber-200/90">
-            This is what a disclaimer message looks like. You might want to include inline <code>code</code> in it. Or maybe you'll want to include a <a href="/">link</a> in it. I don't think we should get too carried away with other scenarios like lists or tables — that would be silly.
+            Așa arată un mesaj de avertizare. Ai putea dori să incluzi <code>cod</code> inline în el. Sau poate vei dori să incluzi un <a href="/">link</a> în el. Nu cred că ar trebui să exagerăm cu alte scenarii precum liste sau tabele — ar fi ridicol.
           </div>
         </div>
 
-        <h3>Configuring the library</h3>
+        <h3>Configurarea bibliotecii</h3>
         <p>
           Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem.
         </p>
@@ -122,22 +122,22 @@ export default {
   },
 }</code></pre>
 
-        <h2>Basic usage</h2>
+        <h2>Utilizare de bază</h2>
         <p>
           Praesentium laudantium magni. Consequatur reiciendis aliquid nihil iusto ut in et. Quisquam ut et aliquid occaecati. Culpa veniam aut et voluptates amet perspiciatis.
         </p>
 
-        <h3>Your first cache</h3>
+        <h3>Primul tău cache</h3>
         <p>
           Minima vel non iste debitis. Consequatur repudiandae et quod accusamus sit molestias consequatur aperiam. Et sequi ipsa eum voluptatibus ipsam.
         </p>
 
-        <h2>Getting help</h2>
+        <h2>Obținerea de ajutor</h2>
         <p>
           Consequuntur et aut quisquam et qui consequatur eligendi. Necessitatibus dolorem sit. Excepturi cumque quibusdam soluta ullam rerum voluptatibus.
         </p>
 
-        <h3>Submit an issue</h3>
+        <h3>Trimite o problemă</h3>
         <p>
           Inventore et aut minus ut voluptatem nihil commodi doloribus consequatur. Facilis perferendis nihil sit aut aspernatur iure ut dolores et.
         </p>

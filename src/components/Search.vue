@@ -7,7 +7,7 @@
     >
       <SearchIcon class="h-5 w-5 flex-none fill-slate-400 group-hover:fill-slate-500 md:group-hover:fill-slate-400 dark:fill-slate-500" />
       <span class="sr-only md:not-sr-only md:ml-2 md:text-slate-500 md:dark:text-slate-400">
-        Search docs
+        Caută documentație
       </span>
       <kbd class="ml-auto hidden font-medium text-slate-400 md:block dark:text-slate-500">
         <kbd class="font-sans">Ctrl</kbd>

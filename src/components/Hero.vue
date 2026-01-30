@@ -12,24 +12,24 @@
           />
           <div class="relative">
             <p class="inline bg-linear-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-              Never miss the cache again.
+              Nu mai rata niciodată cache-ul.
             </p>
             <p class="mt-3 text-2xl tracking-tight text-slate-400">
-              Cache every single thing your app could ever do ahead of time,
-              so your code never even has to run at all.
+              Pune în cache tot ce ar putea face aplicația ta din timp,
+              astfel încât codul tău să nu mai trebuiască să ruleze deloc.
             </p>
             <div class="mt-8 flex gap-4 md:justify-center lg:justify-start">
               <router-link
                 to="/"
                 class="rounded-full bg-sky-300 px-4 py-2 text-sm font-semibold text-slate-900 hover:bg-sky-200 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-300/50 active:bg-sky-500"
               >
-                Get started
+                Începe
               </router-link>
               <a
                 href="https://github.com"
                 class="rounded-full bg-slate-800 px-4 py-2 text-sm font-medium text-white hover:bg-slate-700 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white/50 active:text-slate-400"
               >
-                View on GitHub
+                Vezi pe GitHub
               </a>
             </div>
           </div>

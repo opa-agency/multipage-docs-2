@@ -74,9 +74,9 @@ const { theme, setTheme } = useTheme()
 const isOpen = ref(false)
 
 const themes = [
-  { name: 'Light', value: 'light', icon: LightIcon },
-  { name: 'Dark', value: 'dark', icon: DarkIcon },
-  { name: 'System', value: 'system', icon: SystemIcon },
+  { name: 'Luminos', value: 'light', icon: LightIcon },
+  { name: 'Întunecat', value: 'dark', icon: DarkIcon },
+  { name: 'Sistem', value: 'system', icon: SystemIcon },
 ]
 
 const selectTheme = (value) => {

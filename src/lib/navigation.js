@@ -1,43 +1,43 @@
 export const navigation = [
   {
-    title: 'Introduction',
+    title: 'Introducere',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Primii pași', href: '/' },
+      { title: 'Instalare', href: '/docs/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Concepte de bază',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Înțelegerea cache-ului', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: 'Predicția comportamentului utilizatorului',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'Bazele călătoriei în timp', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: 'Introducere în teoria șirurilor',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Efectul fluturelui', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Ghiduri avansate',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+      { title: 'Scrierea plugin-urilor', href: '/docs/writing-plugins' },
+      { title: 'Integrare Neuralink', href: '/docs/neuralink-integration' },
+      { title: 'Paradoxuri temporale', href: '/docs/temporal-paradoxes' },
+      { title: 'Testare', href: '/docs/testing' },
+      { title: 'Cache la compilare', href: '/docs/compile-time-caching' },
       {
-        title: 'Predictive data generation',
+        title: 'Generare predictivă de date',
         href: '/docs/predictive-data-generation',
       },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Referință API',
     links: [
       { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
@@ -46,11 +46,11 @@ export const navigation = [
     ],
   },
   {
-    title: 'Contributing',
+    title: 'Contribuție',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Cum să contribui', href: '/docs/how-to-contribute' },
+      { title: 'Ghid de arhitectură', href: '/docs/architecture-guide' },
+      { title: 'Principii de design', href: '/docs/design-principles' },
     ],
   },
 ]
